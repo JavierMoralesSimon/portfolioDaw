@@ -8,6 +8,6 @@
 * [Ejercicios](https://github.com/JavierMoralesSimon/portfolioDaw/blob/main/UD2%3A%20Introducci%C3%B3n%20a%20las%20aplicaciones%20web/enlaces_UD2.md)
 
 ### Tema 3
-* [Diario](https://github.com/JavierMoralesSimon/portfolioDaw/blob/main/UD2%3A%20Introducci%C3%B3n%20a%20las%20aplicaciones%20web/diario_UD3.md)
-* [Ejercicios](https://github.com/JavierMoralesSimon/portfolioDaw/blob/main/UD2%3A%20Introducci%C3%B3n%20a%20las%20aplicaciones%20web/enlaces_UD3.md)
+* [Diario](https://github.com/JavierMoralesSimon/portfolioDaw/blob/main/UD3%3A%20Apache/diario_UD3.md)
+* [Ejercicios](https://github.com/JavierMoralesSimon/portfolioDaw/blob/main/UD3%3A%20Apache/enlaces_UD3.md)
 
