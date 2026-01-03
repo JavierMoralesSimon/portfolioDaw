@@ -7,3 +7,5 @@
 [Tomcat: Integración Tomcat + Servidor web](https://github.com/JavierMoralesSimon/tomcatIntegracionServidorWeb): En esta práctica encontrarás como configurar Apache para hacer un reverse proxy hacia Tomcat.
 
 [Tomcat: Configuración de seguridad en Tomcat](https://github.com/JavierMoralesSimon/tomcatConfiguracionSeguridad): En esta práctica encontrarás como configurar la seguridad de Tomcat.
+
+[Tomcat: Herramientas de administración - Manager y Host Manager](https://github.com/JavierMoralesSimon/tomcatHerramientasAdministracion): En esta práctica encontrarás una ficha descriptiva de varias funciones disponibles en las interfaces Manager y Host Manager de Tomcat.
