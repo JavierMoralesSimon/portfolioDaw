@@ -9,3 +9,5 @@
 [Tomcat: Configuración de seguridad en Tomcat](https://github.com/JavierMoralesSimon/tomcatConfiguracionSeguridad): En esta práctica encontrarás como configurar la seguridad de Tomcat.
 
 [Tomcat: Herramientas de administración - Manager y Host Manager](https://github.com/JavierMoralesSimon/tomcatHerramientasAdministracion): En esta práctica encontrarás una ficha descriptiva de varias funciones disponibles en las interfaces Manager y Host Manager de Tomcat.
+
+[Tomcat: Pruebas de funcionamiento y rendimiento](https://github.com/JavierMoralesSimon/tomcatPruebasFuncionamientoRendimiento): En esta práctica encontrarás una comparación del funcionamiento y rendimiento de una aplicación antes y después de aplicar cambios en el archivo "server.xml".
