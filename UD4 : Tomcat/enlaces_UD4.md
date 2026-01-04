@@ -13,3 +13,5 @@
 [Tomcat: Pruebas de funcionamiento y rendimiento](https://github.com/JavierMoralesSimon/tomcatPruebasFuncionamientoRendimiento): En esta práctica encontrarás una comparación del funcionamiento y rendimiento de una aplicación antes y después de aplicar cambios en el archivo "server.xml".
 
 [Tomcat en contenedores (Docker)](https://github.com/JavierMoralesSimon/tomcatContenedoresDocker): En esta práctica encontrarás el montado de una aplicación usando Tomcat en un contenedor Docker y la explicación de las diferencias entre el Tomcat nativo y el Tomcat en contenedor.
+
+[Documentación final](https://github.com/JavierMoralesSimon/tomcatDocumentacionFinal): En esta práctica encontrarás una amplia documentación sobre distintos aspectos de Tomcat.
