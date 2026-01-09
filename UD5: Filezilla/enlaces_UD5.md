@@ -1,1 +1,1 @@
-
+[Actividad 1: Introducción y arquitectura de FileZilla Server](https://github.com/JavierMoralesSimon/filezillaIntroduccionYArquitectura): En esta práctica encontrarás respecto al servidor Filezilla, un esquema del flujo de conexión entre cliente y servidor FTP.
