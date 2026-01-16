@@ -3,3 +3,5 @@
 [Actividad 2: Instalación y configuración inicial del servidor](https://github.com/JavierMoralesSimon/filezillaInstalacionYConfiguracion): En esta práctica encontrarás como instalar y configurar el servidor FileZilla.
 
 [Actividad 3: Creación de usuarios y grupos](https://github.com/JavierMoralesSimon/filezillaUsuariosGrupos): En esta práctica encontrarás como crear grupos y usuarios en FileZilla.
+
+[Actividad 4: Configuración de acceso anónimo](https://github.com/JavierMoralesSimon/filezillaAccesoAnonimo): En esta práctica encontrarás como crear una conexión anónima desde un cliente usando FileZilla.
