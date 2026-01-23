@@ -5,3 +5,5 @@
 [Actividad 3: Creación de usuarios y grupos](https://github.com/JavierMoralesSimon/filezillaUsuariosGrupos): En esta práctica encontrarás como crear grupos y usuarios en FileZilla.
 
 [Actividad 4: Configuración de acceso anónimo](https://github.com/JavierMoralesSimon/filezillaAccesoAnonimo): En esta práctica encontrarás como crear una conexión anónima desde un cliente usando FileZilla.
+
+[Actividad 5: Pruebas en modo activo y pasivo](https://github.com/JavierMoralesSimon/filezillaActivoPasivo): En esta práctica encontrarás información sobre los modos activo y pasivo a la hora de crear conexiones con FileZilla.
