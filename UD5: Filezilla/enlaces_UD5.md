@@ -11,3 +11,5 @@
 [Actividad 6: Pruebas con clientes en línea de comandos](https://github.com/JavierMoralesSimon/filezillaClienteComandos): En esta práctica encontrarás información sobre como realizar distintas operaciones mediante comandos con el cliente "curl".
 
 [Actividad 7: Pruebas con clientes gráficos](https://github.com/JavierMoralesSimon/filezillaClienteGrafico): En esta práctica encontrarás como realizar una transferencia bidireccional de archivos usando FileZilla.
+
+[Actividad 8: Configuración de FTP seguro (FTPS)](https://github.com/JavierMoralesSimon/filezillaFTPS): En esta práctica encontrarás como configurar FTPS.
