@@ -9,3 +9,5 @@
 [Actividad 5: Pruebas en modo activo y pasivo](https://github.com/JavierMoralesSimon/filezillaActivoPasivo): En esta práctica encontrarás información sobre los modos activo y pasivo a la hora de crear conexiones con FileZilla.
 
 [Actividad 6: Pruebas con clientes en línea de comandos](https://github.com/JavierMoralesSimon/filezillaClienteComandos): En esta práctica encontrarás información sobre como realizar distintas operaciones mediante comandos con el cliente "curl".
+
+[Actividad 7: Pruebas con clientes gráficos](https://github.com/JavierMoralesSimon/filezillaClienteGrafico): En esta práctica encontrarás como realizar una transferencia bidireccional de archivos usando FileZilla.
