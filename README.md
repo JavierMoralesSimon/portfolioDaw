@@ -18,3 +18,5 @@
 ### Tema 5
 * [Diario](https://github.com/JavierMoralesSimon/portfolioDaw/blob/main/UD5%3A%20Filezilla/diario_UD5.md)
 * [Ejercicios](https://github.com/JavierMoralesSimon/portfolioDaw/blob/main/UD5%3A%20Filezilla/enlaces_UD5.md)
+
+AVISO: ME QUEDAN LAS ÚLTIMAS 4 PRÁCTICAS DEL TEMA 5. EL VIERNES 20 QUE ES EL DÍA INCLUIDO QUE SE PUSO COMO LÍMITE, ENTREGARÉ LO ÚLTIMO QUE ME FALTE PARA ENTONCES.
