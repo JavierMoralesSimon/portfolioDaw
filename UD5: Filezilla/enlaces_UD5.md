@@ -13,3 +13,5 @@
 [Actividad 7: Pruebas con clientes gráficos](https://github.com/JavierMoralesSimon/filezillaClienteGrafico): En esta práctica encontrarás como realizar una transferencia bidireccional de archivos usando FileZilla.
 
 [Actividad 8: Configuración de FTP seguro (FTPS)](https://github.com/JavierMoralesSimon/filezillaFTPS): En esta práctica encontrarás como configurar FTPS.
+
+[Actividad 9: Uso del navegador como cliente FTP](https://github.com/JavierMoralesSimon/navegadorClienteFTP): En esta práctica encontrarás un análisis del uso del navegador como cliente FTP.
