@@ -15,3 +15,5 @@
 [Actividad 8: Configuración de FTP seguro (FTPS)](https://github.com/JavierMoralesSimon/filezillaFTPS): En esta práctica encontrarás como configurar FTPS.
 
 [Actividad 9: Uso del navegador como cliente FTP](https://github.com/JavierMoralesSimon/navegadorClienteFTP): En esta práctica encontrarás un análisis del uso del navegador como cliente FTP.
+
+[Actividad 10: Integración de FTP con servidor web](https://github.com/JavierMoralesSimon/integracionFTPServidorWeb): En esta práctica encontrarás como integrar FTP con un servidor web.
