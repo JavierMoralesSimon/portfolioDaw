@@ -19,3 +19,5 @@
 [Actividad 10: Integración de FTP con servidor web](https://github.com/JavierMoralesSimon/integracionFTPServidorWeb): En esta práctica encontrarás como integrar FTP con un servidor web.
 
 [Actividad 11: Disponibilidad y buenas prácticas](https://github.com/JavierMoralesSimon/disponibilidadBuenasPracticas): En esta práctica encontrarás una serie de recomendaciones para un servidor FTP en producción.
+
+[Actividad 12: Documentación final](https://github.com/JavierMoralesSimon/filezillaDocumentacionFinal): En esta práctica encontrarás una documentación final sobre FileZilla.
